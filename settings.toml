@@ -1,0 +1,10 @@
+[project]
+app_name          = "Piece of Cake"
+main_keyword      = "Piece of Cake game"
+short_description = "Piece of Cake game is a fun, challenging puzzle where players stack cakes to match colorful patterns and complete levels."
+meta_description  = "Explore our comprehensive documentation site for the Piece of Cake game. Find a detailed download guide, features overview, and FAQ to enhance your gaming experience."
+release_date      = "2026-04-08"
+
+additional_pages = [
+  "Piece of Cake game online",
+]

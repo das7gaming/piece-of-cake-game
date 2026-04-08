@@ -8,8 +8,6 @@ theme:
   name: material
   custom_dir: overrides
   language: en
-  icon:
-    logo: material/sports_esports
   palette:
     - scheme: default
       primary: blue
